@@ -1,0 +1,15 @@
+﻿  Pipe.cpp
+C:\rep\l2\main\Pipe.cpp(11,34): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+C:\rep\l2\main\Pipe.cpp(11,34): warning C4244:         with
+C:\rep\l2\main\Pipe.cpp(11,34): warning C4244:         [
+C:\rep\l2\main\Pipe.cpp(11,34): warning C4244:             T=double
+C:\rep\l2\main\Pipe.cpp(11,34): warning C4244:         ]
+C:\rep\l2\main\Pipe.cpp(14,36): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+C:\rep\l2\main\Pipe.cpp(14,36): warning C4244:         with
+C:\rep\l2\main\Pipe.cpp(14,36): warning C4244:         [
+C:\rep\l2\main\Pipe.cpp(14,36): warning C4244:             T=double
+C:\rep\l2\main\Pipe.cpp(14,36): warning C4244:         ]
+C:\rep\l2\main\Pipe.cpp(41,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\rep\l2\main\Pipe.cpp(42,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\rep\l2\main\x64\Debug\main.exe при последней инкрементной компоновке; выполняется полная компоновка
+  main.vcxproj -> C:\rep\l2\main\x64\Debug\main.exe

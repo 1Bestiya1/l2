@@ -1,0 +1,117 @@
+ - SUCCESS!
+ - Action selected:1
+ - Action: 1
+ - Added name: ghjkiu
+ - (I dead) Added value: 123,000000
+ - Added lenght: 123
+ - (I dead) Added value: 87,000000
+ - Added diametr: 87
+ - Pipe added with ID: 1
+ - Action: 1
+ - Added name: oiuyt
+ - (I dead) Added value: 543,000000
+ - Added lenght: 543
+ - (I dead) Added value: 6,000000
+ - Added diametr: 6
+ - Pipe added with ID: 2
+ - Action: 0
+ - Action 'Base menu'
+ - Action selected:4
+ - Save to file operation started: test7.txt.txt
+ - Successfully saved to file: test7.txt.txt
+ - Action selected:5
+ - Try to download from file: test7.txt.txt
+ - Error: Pipe with ID 1 is already exist.
+ - Error: Pipe with ID 2 is already exist.
+ - Action selected:3
+ - Let's watch the data about pipes: ghjkiu
+ - Let's watch the data about pipes: oiuyt
+ - The list of the pipes
+ - All pipes and stations have been displayed.
+ - Action selected:5
+ - Try to download from file: test7.txt.txt
+ - Error: Pipe with ID 1 is already exist.
+ - Error: Pipe with ID 2 is already exist.
+ - Action selected:1
+ - Action: 3
+ - Pipe was deleted. It's ID: 1
+ - Pipe was deleted. It's ID: 2
+ - Action: 0
+ - Action 'Base menu'
+ - Action selected:5
+ - Try to download from file: test7.txt.txt
+ - Pipe loaded with ID: 1
+ - Pipe loaded with ID: 2
+ - Action selected:3
+ - Let's watch the data about pipes:  ghjkiu
+ - Let's watch the data about pipes:  oiuyt
+ - The list of the pipes
+ - All pipes and stations have been displayed.
+ - Action selected:2
+ - Action (: 1
+ - The name of the CS has been entered: fds
+ - (I dead) Added value: 43
+ - The user entered the total number of workshops: 43
+ - (I dead) Added value: 3
+ - The user entered the number of workshops: 43
+ - (I dead) Added value: 23,000000
+ - The user entered the efficiency percentage: 43%
+ - New station added with ID: 1
+ - Action (: 2
+ - he user selected an action: 
+ - Launch a new workshop
+ - Updated status of the workshop of the station with ID: 1
+ - Action (: 1
+ - The name of the CS has been entered: fds
+ - (I dead) Added value: 23
+ - The user entered the total number of workshops: 23
+ - (I dead) Added value: 2
+ - The user entered the number of workshops: 23
+ - (I dead) Added value: 45,000000
+ - The user entered the efficiency percentage: 23%
+ - New station added with ID: 2
+ - Action (: 4
+ - List of stations.
+ - Action (: 0
+ - Base menu
+ - Action selected:3
+ - Let's watch the data about pipes:  ghjkiu
+ - Let's watch the data about pipes:  oiuyt
+ - The list of the pipes
+ - List of stations.
+ - All pipes and stations have been displayed.
+ - Action selected:4
+ - Save to file operation started: test7.txt.txt
+ - Successfully saved to file: test7.txt.txt
+ - Action selected:5
+ - Try to download from file: test7.txt.txt
+ - Error: Pipe with ID 1 is already exist.
+ - Error: Pipe with ID 2 is already exist.
+ - Action selected:3
+ - Let's watch the data about pipes:  ghjkiu
+ - Let's watch the data about pipes:  oiuyt
+ - The list of the pipes
+ - List of stations.
+ - All pipes and stations have been displayed.
+ - Action selected:1
+ - Action: 3
+ - Pipe was deleted. It's ID: 1
+ - Pipe was deleted. It's ID: 2
+ - Action: 0
+ - Action 'Base menu'
+ - Action selected:3
+ - The list of the pipes
+ - List of stations.
+ - All pipes and stations have been displayed.
+ - Action selected:5
+ - Try to download from file: test7.txt.txt
+ - Pipe loaded with ID: 1
+ - Pipe loaded with ID: 2
+ - Action selected:3
+ - Let's watch the data about pipes:   ghjkiu
+ - Let's watch the data about pipes:   oiuyt
+ - The list of the pipes
+ - List of stations.
+ - All pipes and stations have been displayed.
+ - Action selected:0
+ - Exit the program.
